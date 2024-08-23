@@ -15,4 +15,4 @@
 
 
 ## 다운로드
-[최신 버전 다운로드]https://github.com/yhaaan/Dora/releases/tag/v1.0.1
+[최신 버전 다운로드]https://github.com/yhaaan/Dora/releases/latest
